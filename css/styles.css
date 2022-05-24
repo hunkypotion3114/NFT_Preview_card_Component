@@ -113,6 +113,6 @@ a{
 
 @media  screen and (max-width: 500px) {
     .card{
-        width:250px;
+        width:225px;
     }
 }
