@@ -111,8 +111,9 @@ a{
     float:right;
 }
 
-@media  screen and (max-width: 500px) {
+/*@media  screen and (max-width: 500px) {
     .card{
         width:250px;
     }
 }
+*/
